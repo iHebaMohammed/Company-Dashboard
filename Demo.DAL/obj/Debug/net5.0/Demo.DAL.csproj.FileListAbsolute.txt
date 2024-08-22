@@ -1,0 +1,15 @@
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.json
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.runtimeconfig.dev.json
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\Demo.DAL.genruntimeconfig.cache
+E:\Repos\Projects\RouteDemoMVC\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
