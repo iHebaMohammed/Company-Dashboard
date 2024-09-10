@@ -1,4 +1,4 @@
-# Route MVC 3-Tire Architecture
+# Company Dashboard MVC 3-Tire Architecture
 
 ## Description
 This project is an Employee Management System built using ASP.NET Core MVC. It allows for the management of employees and their respective departments. The application supports all CRUD (Create, Read, Update, Delete) operations for both employees and departments. The project follows a three-tier architecture and implements the Repository pattern and Unit of Work.
