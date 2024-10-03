@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2YOuu2DAzozyO9cJ8tgkrbhET7v8rEnM/CDMia0aHZKqYhV7R6bUtDTH2jKa1cpOAjdQfZtfjM1FR1DqHqZWKA==",
+  "dgSpecHash": "gcdsiLlyWro=",
   "success": true,
-  "projectFilePath": "E:\\Repos\\Projects\\RouteDemoMVC\\Demo.PL\\Demo.PL.csproj",
+  "projectFilePath": "E:\\Repos\\Projects\\Company-Dashboard\\Demo.PL\\Demo.PL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LAPTOP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\LAPTOP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

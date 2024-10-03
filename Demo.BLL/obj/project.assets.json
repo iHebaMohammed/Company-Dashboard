@@ -6137,11 +6137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Repos\\Projects\\RouteDemoMVC\\Demo.BLL\\Demo.BLL.csproj",
+      "projectUniqueName": "E:\\Repos\\Projects\\Company-Dashboard\\Demo.BLL\\Demo.BLL.csproj",
       "projectName": "Demo.BLL",
-      "projectPath": "E:\\Repos\\Projects\\RouteDemoMVC\\Demo.BLL\\Demo.BLL.csproj",
+      "projectPath": "E:\\Repos\\Projects\\Company-Dashboard\\Demo.BLL\\Demo.BLL.csproj",
       "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
-      "outputPath": "E:\\Repos\\Projects\\RouteDemoMVC\\Demo.BLL\\obj\\",
+      "outputPath": "E:\\Repos\\Projects\\Company-Dashboard\\Demo.BLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6156,14 +6156,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\Repos\\Projects\\RouteDemoMVC\\Demo.DAL\\Demo.DAL.csproj": {
-              "projectPath": "E:\\Repos\\Projects\\RouteDemoMVC\\Demo.DAL\\Demo.DAL.csproj"
+            "E:\\Repos\\Projects\\Company-Dashboard\\Demo.DAL\\Demo.DAL.csproj": {
+              "projectPath": "E:\\Repos\\Projects\\Company-Dashboard\\Demo.DAL\\Demo.DAL.csproj"
             }
           }
         }
@@ -6172,6 +6173,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -6193,7 +6199,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

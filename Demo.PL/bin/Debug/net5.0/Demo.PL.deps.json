@@ -1984,7 +1984,10 @@
           "Demo.DAL": "1.0.0"
         },
         "runtime": {
-          "Demo.BLL.dll": {}
+          "Demo.BLL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Demo.BLL.dll": {}
@@ -1996,7 +1999,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
         },
         "runtime": {
-          "Demo.DAL.dll": {}
+          "Demo.DAL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         },
         "compile": {
           "Demo.DAL.dll": {}

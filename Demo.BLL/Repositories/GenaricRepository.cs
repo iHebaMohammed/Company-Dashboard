@@ -32,6 +32,8 @@ namespace Demo.BLL.Repositories
 
         public async Task<IEnumerable<T>> GetAll()
         {
+            if (typeof(T) == typeof(Employee))
+                return (IEnumerable<T>) await _dbContext.Set<Employee>().Include(E => E.Department).ToListAsync();
             return await _dbContext.Set<T>().ToListAsync();
         }
 
